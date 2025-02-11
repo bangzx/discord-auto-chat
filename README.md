@@ -5,7 +5,7 @@
 git clone https://github.com/bangzx/discord-auto-chat.git
 cd discord-auto-chat
 pip install -r requirements.txt
-python main.py
+python discord.py
 ```
 
 ## How to get token DISCORD
