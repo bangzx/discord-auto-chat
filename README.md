@@ -18,4 +18,7 @@ word javascript may removed by browser , you can type it manual.
 or you can create bookmark and paste this js inject to url bookmark, and click when open discord web*
 
 ## CHANNEL TELEGRAM JOIN HERE
-[KLIK DISINI AIRDROP FETCH](https://t.me/airdropfetchofficial)
+[KLIK DISINI AIRDROP FETCH](https://t.me/airdropfetchofficial) 
+
+![](dcbot.png)
+
