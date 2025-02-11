@@ -3,7 +3,7 @@
 1. Clone the repository:
 ```bash
 git clone https://github.com/bangzx/discord-auto-chat.git
-cd dc-chat
+cd discord-auto-chat
 pip install -r requirements.txt
 python main.py
 ```
