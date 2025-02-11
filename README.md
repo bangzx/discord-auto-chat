@@ -16,7 +16,7 @@ javascript:(()=>{var t=document.body.appendChild(document.createElement`iframe`)
 *Paste in your url bar when open discord desktop browser
 word javascript may removed by browser , you can type it manual.
 or you can create bookmark and paste this js inject to url bookmark, and click when open discord web*
-## JIKA BINGUNG TANYA DI GRUP AIRDROP FETCH TUTOR COPAS TOKEN AUTH DC
+## 👉 JIKA BINGUNG TANYA DI GRUP AIRDROP FETCH CARA DAPATKAN TOKEN AUTH DC
 
 ## CHANNEL TELEGRAM JOIN HERE
 [KLIK DISINI AIRDROP FETCH](https://t.me/airdropfetchofficial) 
